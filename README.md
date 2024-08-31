@@ -1,1 +1,1 @@
-# Generative-Adversarial-Model---WGAN-GP
+# Generative Adversarial Model - WGAN-GP
