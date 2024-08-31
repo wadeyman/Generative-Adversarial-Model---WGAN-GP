@@ -1,4 +1,4 @@
-# Generative Adversarial Model - WGAN-GP
+# Generative Adversarial Model: WGAN-GP
 
 
 Learning how to build a basic WGAN-GP model on Anime Face Dataset
